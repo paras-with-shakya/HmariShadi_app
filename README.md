@@ -1,4 +1,3 @@
-🚀 README.md Content for Your GitHub Project
 # 💍 HmariShadi - Matrimonial Flutter App
 
 HmariShadi is a modern and responsive matrimonial mobile application developed using Flutter.  
